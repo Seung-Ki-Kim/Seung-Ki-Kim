@@ -29,8 +29,8 @@ Currently, I'm studying software engineering B.S course at SungKongHoe Universit
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-C9284D.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-<img alt="CSharp" src ="https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/>
-<img alt="mariadb" src ="https://img.shields.io/badge/mariadb-1F305F.svg?&style=for-the-badge&logo=mariadbfoundation&logoColor=white"/>
+<img alt="CSharp" src ="https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/>
+<img alt="mariadb" src ="https://img.shields.io/badge/maria%20db-1F305F.svg?&style=for-the-badge&logo=mariadbfoundation&logoColor=white"/>
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
