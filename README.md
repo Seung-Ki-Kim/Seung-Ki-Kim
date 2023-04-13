@@ -40,7 +40,3 @@ Currently, I'm studying software engineering B.S course at SungKongHoe Universit
 # Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsk200012@gmail.com)](mailto:kimsk200012@gmail.com)
-
-<br/>
-
----
