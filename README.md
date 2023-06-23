@@ -6,7 +6,7 @@ Hi, There. Nice to see you!
 
 I'm an amateur indie game developer, **Seung-Ki Kim** from Republic of Korea.
 
-And I also one of the member of 'Team IceCream Hamburger'.
+And I also one of the member of 'Team ICECREAM HAMBURGER'.
 
 You can call me 'Seung-Ki'.
 
