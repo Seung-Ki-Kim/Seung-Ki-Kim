@@ -1,6 +1,6 @@
 # Profile
 
-### **Seung-Ki, Kim | Software Engineering B.S.**
+### **Seung-Ki, Kim | 김승기** 
 > Indie Game Developer (Game Programming & Game Design)<br/>
 > M.S. Student, Dept. of Art & Technology, Sogang University<br/>
 
