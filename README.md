@@ -2,15 +2,19 @@
 
 ### **Seung-Ki, Kim | Software Engineering B.S.**
 > Indie Game Developer (Game Programming & Game Design)<br/>
-> M.S. Student, Dept. of Art&Technology, Sogang University<br/>
+> M.S. Student, Dept. of Art & Technology, Sogang University<br/>
 
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=wlvlrtm)](https://solved.ac/wlvlrtm)
+<br/>
+
+My interests include XR, HCI, and Game. <br/>
+Since 2014, I've been creating games with Unity, and I'm now a graduate student at the Department of Art & Technology, Sogang University.
 
 <br/>
 
 ### **Links**
-- Blog (tistory): https://arainablog.tistory.com<br/>
-- Team ICECREAM HAMBURGER (Github): https://github.com/Team-ICECREAM-HAMBURGER
+
+- Blog (Tistory, KR) : https://arainablog.tistory.com <br/>
+- Team ICECREAM HAMBURGER (Github) : https://github.com/Team-ICECREAM-HAMBURGER
 
 <br/>
 
