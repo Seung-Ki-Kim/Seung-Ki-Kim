@@ -4,6 +4,8 @@
 > Indie Game Developer (Game Programming & Game Design)<br/>
 > M.S. Student, Dept. of Art&Technology, Sogang University<br/>
 
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=wlvlrtm)](https://solved.ac/wlvlrtm)
+
 <br/>
 
 ### **Links**
