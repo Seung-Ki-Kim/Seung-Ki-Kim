@@ -1,5 +1,4 @@
 # Profile
-<br/>
 
 ### **Seung-Ki, Kim | Software Engineering B.S.**
 > Indie Game Developer (Game Programming & Game Design)<br/>
@@ -7,6 +6,7 @@
 
 <br/>
 
+### **Links**
 - Blog (tistory): https://arainablog.tistory.com<br/>
 - Team ICECREAM HAMBURGER (Github): https://github.com/Team-ICECREAM-HAMBURGER
 
