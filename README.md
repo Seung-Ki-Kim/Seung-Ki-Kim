@@ -7,7 +7,10 @@
 <br/>
 
 My interests include XR, HCI, and Game. <br/>
-Since 2014, I've been creating games with Unity, and I'm now a graduate student at the Department of Art & Technology, Sogang University.
+Since 2014, I've been creating games with Unity. <br/>
+I'm now a graduate student at the Department of Art & Technology, Sogang University. <br/>
+<br/>
+**Contact :** seung.ki200012@gmail.com
 
 <br/>
 
