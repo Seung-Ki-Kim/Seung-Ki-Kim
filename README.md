@@ -19,9 +19,10 @@ I'm now a graduate student at the Department of Art & Technology, Sogang Univers
 
 ### **Links**
 
-- Hub (Notion, EN/KR) : https://imooogi.notion.site/Seung-Ki-s-Hub-2ec8c8dbb2284a608916276344facd3e <br/>
-- Blog (Tistory, KR) : https://arainablog.tistory.com <br/>
-- Team ICECREAM HAMBURGER (Github, KR) : https://github.com/Team-ICECREAM-HAMBURGER
+- Hub (Notion) : https://imooogi.notion.site/Seung-Ki-s-Hub-2ec8c8dbb2284a608916276344facd3e <br/>
+- Personal Dev. Blog (2019 ~ 2025) : https://arainablog.tistory.com <br/>
+- Presonal Dev. Blog (2025 ~ ): https://seung-ki-kim.github.io/ <br/>
+- Team ICECREAM HAMBURGER (Github) : https://github.com/Team-ICECREAM-HAMBURGER
 
 <br/>
 
