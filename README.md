@@ -4,6 +4,18 @@
 > Indie Game Developer (Game Programming & Game Design)<br/>
 > Master's Student, Dept. of Art & Technology, Sogang University
 
+<br/>
+
+A graduate student and indie game developer interested in immersive storytelling and user-centered experience design. <br/>
+
+I've loved games since childhood, but after encountering the masterpiece God of War—which achieved high-quality storytelling through the fusion of game design and engineering—I became captivated by the charm of games perfected at the intersection of technology and art.<br/>
+
+With the expectation that understanding game UX will enhance the quality of immersive narratives for players, I am currently researching UX design to improve game immersion and convenience at Sogang University's Department of Art & Technology.<br/>
+
+Recently, I discovered Cassette Futurism and am planning an alternate history game set against the backdrop of modern and contemporary Korean history.<br/>
+
+<br/>
+
 ### **Links**
 - Hub (Notion) : https://imooogi.notion.site/Seung-Ki-s-Hub-2ec8c8dbb2284a608916276344facd3e <br/>
 - 1st. Blog, Develog (Tistory) : https://arainablog.tistory.com <br/>
