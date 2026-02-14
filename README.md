@@ -2,27 +2,17 @@
 
 ### **Seung-Ki, Kim | 김승기** 
 > Indie Game Developer (Game Programming & Game Design)<br/>
-> M.S. Student, Dept. of Art & Technology, Sogang University<br/>
-
-<br/>
-
-My interests include XR, HCI, and Game.
-
-Since 2014, I've been creating games with Unity.
-
-I'm now a graduate student at the Department of Art & Technology, Sogang University.
-<br/><br/>
-
-**Contact :** seung.ki200012@gmail.com
-
-<br/>
+> Master's Student, Dept. of Art & Technology, Sogang University
 
 ### **Links**
 - Hub (Notion) : https://imooogi.notion.site/Seung-Ki-s-Hub-2ec8c8dbb2284a608916276344facd3e <br/>
 - 1st. Blog, Develog (Tistory) : https://arainablog.tistory.com <br/>
 - 2nd. Blog, Develoog (Github) : https://seung-ki-kim.github.io/
-<br/>
 - Team ICECREAM HAMBURGER (Github) : https://github.com/Team-ICECREAM-HAMBURGER <br/>
+
+<br/>
+
+**Contact :** seung.ki200012@gmail.com
 
 <br/>
 
