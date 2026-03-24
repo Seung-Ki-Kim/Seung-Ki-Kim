@@ -17,6 +17,7 @@ Recently, I discovered Cassette Futurism and am planning an alternate history ga
 <br/>
 
 ### **Links**
+- LinkedIn : https://www.linkedin.com/in/seung-ki-kim-4450823b7
 - Hub (Notion) : https://imooogi.notion.site/Seung-Ki-s-Hub-2ec8c8dbb2284a608916276344facd3e <br/>
 - 1st. Blog, Develog (Tistory) : https://arainablog.tistory.com <br/>
 - 2nd. Blog, Develoog (Github) : https://seung-ki-kim.github.io/
